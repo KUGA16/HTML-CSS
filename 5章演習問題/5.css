@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+	width :100%;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-align: center;
+}
+.headerline {
+	padding: 20px 0;
+}
+.nav-list {
+	text-align: center;
+	border-top: 1px solid #848282;
+	border-bottom: 1px solid #848282;
+}
+.nav-list-item {
+	list-style: none;
+	display: inline-block;
+	padding: 15px 20px;
+}
+.main {
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	padding: 50px 0;
+	background-color: red;
+}
+
+
+
+
+
+
