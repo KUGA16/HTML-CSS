@@ -32,18 +32,21 @@
 }
 .image {
 	width: 280px;
+	height: 200px;
 	background-image: url(img/flow01.png);
 	background-size: cover;
 	background-position: bottom;
 }
 .image2 {
 	width: 280px;
+	height: 200px;
 	background-image: url(img/flow02.png);
 	background-size: cover;
 	background-position: bottom;
 }
 .image3 {
 	width: 280px;
+	height: 200px;
 	background-image: url(img/flow03.png);
 	background-size: cover;
 	background-position: bottom;
